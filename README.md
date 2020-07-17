@@ -1,13 +1,25 @@
-# Python Games
+# PYTHON GAMES
 
-simple games build using python modules like Turtle, Pygame etc..
+Simple games build using python modules like Turtle, Pygame.
 
-SNAKE GAME:
+## Snake Game:
 
- It is build using turtle, random, time modules
+ Modules used:
+ * Turtle
+ * Random 
+ * Time
 
- rules:
 
- -> The game consists of a snake and food displayed on random position. The snake should eat the food. It grows by taking food.
- -> By taking food score increases by 10
- -> The game ends if the snake head touches its own body or hits the sides of the window.
+ ### Rules:
+
+ * The game consists of a snake and food displayed on random position.
+ * Our aim is to make snake eat the food and grow it as big as possible.
+ * The food is displayed in red colour at random position.
+ * Each time snake eats food score increases by 10 and the body of the snake grows by one segment.
+ * The game ends if the snake head touches its own body or hits the sides of the window.
+
+ ### Game Window:
+
+
+ ![snake](/uploads/9fea95378440c3fa0236b7055c3369cd/snake.png)
+
