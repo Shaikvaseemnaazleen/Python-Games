@@ -21,7 +21,7 @@ Simple games build using python modules like Turtle, Pygame.
  ### Game Window:
 
 
- ![snake](/uploads/9fea95378440c3fa0236b7055c3369cd/snake.png)
+ ![](https://gitlab.com/vaseem_naazleen_shaik/python-games/uploads/9fea95378440c3fa0236b7055c3369cd/snake.png)
 
 
  # Space Ivaders:
@@ -47,7 +47,9 @@ Simple games build using python modules like Turtle, Pygame.
 
  ### Game window:
 
- ![space](/uploads/624ebeb691de76d74a9c0765b33d7a22/space.png)
+ 
+![](https://gitlab.com/vaseem_naazleen_shaik/python-games/uploads/624ebeb691de76d74a9c0765b33d7a22/space.png)
+
 
 # Matching Game:
 
@@ -74,15 +76,21 @@ Simple games build using python modules like Turtle, Pygame.
 
 **Start and clicked two images**
 
-![matching](/uploads/1cb1bfb9b6b932ae29bd9e0dce7b3221/matching.JPG)
+
+![](https://gitlab.com/vaseem_naazleen_shaik/python-games/uploads/1cb1bfb9b6b932ae29bd9e0dce7b3221/matching.JPG)
+
 
 **Same images**
 
-![same](/uploads/7f282b9b77bd74bd6530664d75557d6c/same.png)
+
+![](https://gitlab.com/vaseem_naazleen_shaik/python-games/uploads/7f282b9b77bd74bd6530664d75557d6c/same.png)
+
 
 **displays matched**
 
-![matched](/uploads/1d9f14e79b9febc96d3ed9a2ec8027f9/matched.png)
+
+![](https://gitlab.com/vaseem_naazleen_shaik/python-games/uploads/1d9f14e79b9febc96d3ed9a2ec8027f9/matched.png)
+
 
 
 
