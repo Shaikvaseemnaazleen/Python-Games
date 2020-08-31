@@ -2,4 +2,10 @@
 
 Simple python mini projects.
 
+## Table of contents
+* [Snake game](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Snake-Game)
+* [Matching game](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Matching%20Game)
+* [Space Invaders](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Space%20Invaders)
+* [Task Manager WebApp](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/To-Do-List-App)
+
 **Happy Learning!**
