@@ -9,5 +9,6 @@ Simple python mini projects.
 * [Task Manager WebApp](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/To-Do-List-App)
 * [COVID-19 Data Analysis using Python](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/COVID-19-DataAnalysis-using-Python)
 * [Neural Style Transfer using TensoorFlow](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Neural%20Style%20Transfer%20using%20TensorFlow)
+* [Recommendation System](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Recommendation%20System)
 
 **Happy Learning!**
