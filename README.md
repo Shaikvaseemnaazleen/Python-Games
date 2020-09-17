@@ -1,6 +1,15 @@
 # PYTHON MINI PROJECTS
 
-Simple python mini projects.
+### A collection of super-cool Python projects for beginners!! ✨
+
+![Author](https://img.shields.io/badge/author-vnaazleen-orange)
+[![HitCount](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects.svg)](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects)
+![Maintained](https://img.shields.io/maintenance/yes/2020)
+![Last Commit](https://img.shields.io/github/last-commit/vnaazleen/Python-Mini-Projects)
+![Issues](https://img.shields.io/github/issues/vnaazleen/Python-Mini-Projects)
+![Stars GitHub](https://img.shields.io/github/stars/vnaazleen/Python-Mini-Projects)
+![Language](https://img.shields.io/github/languages/top/vnaazleen/Python-Mini-Projects)
+![Size](https://img.shields.io/github/repo-size/vnaazleen/Python-Mini-Projects)
 
 ## Table of contents
 * [Snake game](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Snake-Game)
@@ -11,6 +20,5 @@ Simple python mini projects.
 * [Neural Style Transfer using TensorFlow](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Neural%20Style%20Transfer%20using%20TensorFlow)
 * [Recommendation System](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Recommendation%20System)
 
-**seen by**   [![HitCount](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects.svg)](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects)
 
 **Happy Learning!**
