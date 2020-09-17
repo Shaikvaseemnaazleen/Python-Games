@@ -11,4 +11,6 @@ Simple python mini projects.
 * [Neural Style Transfer using TensorFlow](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Neural%20Style%20Transfer%20using%20TensorFlow)
 * [Recommendation System](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Recommendation%20System)
 
+**seen by**   [![HitCount](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects.svg)](http://hits.dwyl.com/vnaazleen/Python-Mini-Projects)
+
 **Happy Learning!**
