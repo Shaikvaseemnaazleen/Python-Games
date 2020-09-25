@@ -19,6 +19,7 @@
 * [COVID-19 Data Analysis using Python](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/COVID-19-DataAnalysis-using-Python)
 * [Neural Style Transfer using TensorFlow](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Neural%20Style%20Transfer%20using%20TensorFlow)
 * [Recommendation System](https://github.com/Shaikvaseemnaazleen/Python-Mini-Projects/tree/master/Recommendation%20System)
+* [Sudoku Solver using Backtracking](https://github.com/vnaazleen/Python-Mini-Projects/tree/master/Sudoku%20Solver%20using%20backtracking)
 
 
 **Happy Learning!**
